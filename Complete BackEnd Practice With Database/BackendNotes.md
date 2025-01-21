@@ -1,0 +1,22 @@
+## Timestamps:
+- 00:02:29 - CH-01: Introduction to Backend Development ✅
+- 00:00:00 - Course Introduction ✅
+- 00:11:14 - CH-02: Node.js & NPM Basics ✅
+- 00:19:47 - CH-03: First Program in Node.js ✅
+- 00:26:57 - CH-04: Using Nodemon Package ✅
+- 00:34:06 - CH-05: Modules in Node.js with require ✅
+- 00:46:29 - CH-06: Creating a Server in Node.js ✅
+- 01:00:39 - CH-07: Express.js Intro & Installation ✅
+- 01:12:40 - CH-08: Routing & Route Params (Request & Response) ✅
+- 01:42:10 - CH-09: Middleware in Express.js ✅
+- 02:00:24 - CH-10: Route-level Middleware in Express.js ✅
+- 02:07:10 - CH-11: Setting up .env in Node.js ✅
+- 02:13:26 - CH-12: MongoDB Introduction ✅
+- 02:16:33 - CH-13: Installing MongoDB ✅
+- 02:21:55 - CH-14: MongoDB Commands Overview ✅
+- 02:46:35 - CH-15: Connecting MongoDB with Node.js (Insert & View APIs)
+- 03:14:12 - CH-16: Delete & Update APIs
+- 03:42:41 - CH-17: Intro to Mongoose & CRUD Operations
+- 04:27:40 - CH-18: MVC-R (Model, View, Controller, and Routing)
+- 04:48:21 - CH-19: Building a User Enquiry Form in React
+- 05:16:30 - CH-20: CRUD Operations in User Module (Project)
