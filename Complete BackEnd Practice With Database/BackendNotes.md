@@ -14,8 +14,8 @@
 - 02:13:26 - CH-12: MongoDB Introduction ✅
 - 02:16:33 - CH-13: Installing MongoDB ✅
 - 02:21:55 - CH-14: MongoDB Commands Overview ✅
-- 02:46:35 - CH-15: Connecting MongoDB with Node.js (Insert & View APIs)
-- 03:14:12 - CH-16: Delete & Update APIs
+- 02:46:35 - CH-15: Connecting MongoDB with Node.js (Insert & View APIs) ✅
+- 03:14:12 - CH-16: Delete & Update APIs ✅
 - 03:42:41 - CH-17: Intro to Mongoose & CRUD Operations
 - 04:27:40 - CH-18: MVC-R (Model, View, Controller, and Routing)
 - 04:48:21 - CH-19: Building a User Enquiry Form in React
